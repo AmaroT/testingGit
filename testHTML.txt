@@ -1,0 +1,16 @@
+<!Doctype html>
+<html>
+<head>
+<Title>Sample Webpage</title>
+</head>
+<head>
+<style>
+body {
+	background-color:lightblue;}
+</style>
+</head>
+<body>
+<h1> Hello World!</h1>
+<p> This page has a lightblue background color and standard black font, to which nothing was changed for the font color.</p>
+</body>
+</html>
